@@ -1,0 +1,5 @@
+# Example Stanza
+[monitor:///etc/suricata/rules/*.rules]
+sourcetype = suri_rules
+followTail = 0
+disabled = 0
